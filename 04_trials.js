@@ -472,7 +472,7 @@ const practice_trials = [
                       angle: 50,
                   },
                   {
-                      picture: "images/mental_rotation_imagesmental_rotation_images/9_150_same.jpg",
+                      picture: "images/mental_rotation_images/9_150_same.jpg",
                       item: 9,
                       key1: 's',
                       key2:'d',
