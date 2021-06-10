@@ -1,6 +1,6 @@
 // In this file you initialize and configure your experiment using magpieInit
 
-$("document").ready(function() {
+$("document").ready(function()){
     // prevent scrolling when space is pressed
     window.onkeydown = function(e) {
         if (e.keyCode === 32 && e.target === document.body) {
